@@ -1,13 +1,17 @@
 {
-  "name": "youform-node-sdk",
+  "name": "youform-js-sdk",
   "version": "1.0.0",
-  "description": "Youform API javascript SDK",
+  "description": "Javascript SDK to easily interact with https://youform.site API ecosystem.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexdant91/youform-js-sdk"
+  },
   "author": "Alessandro D'Antoni",
-  "license": "ISC",
+  "license": "MIT License",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.7.4",
     "@babel/polyfill": "^7.7.0",
