@@ -1,0 +1,6 @@
+# Directory
+node_modules/
+src/
+
+# Files
+babel.config.js
