@@ -16,7 +16,7 @@ const doAsyncOperations = async () => {
   const saved = await client.data([
     {
       "title": "Harry Potter 2",
-      "description": "Il secondo libro di Harry Potter",
+      "description": "The second Harry Potter book",
       "author": "J.K. Rowling",
       "isbn": "1231231-13312323231323-1245654356789876"
     }

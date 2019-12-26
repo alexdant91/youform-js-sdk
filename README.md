@@ -1,3 +1,3 @@
-# YouForm Javascript SDK
+# YouForm DataLab Javascript SDK
 
-Javascript SDK to easily interact with [YouForm](https://youform.site) API ecosystem.
+Javascript SDK to easily interact with [YouForm](https://youform.site) DataLab API ecosystem.
